@@ -1,0 +1,5 @@
+x = int(input())
+y = int(input())
+maximum = max(x, y)
+minimum = min(x, y)
+print(f'{maximum} \n{minimum}')
